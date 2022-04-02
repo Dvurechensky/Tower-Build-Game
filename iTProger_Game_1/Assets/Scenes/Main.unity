@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 39026334}
   - component: {fileID: 39026335}
   - component: {fileID: 39026336}
-  - component: {fileID: 39026337}
+  - component: {fileID: 39026338}
   m_Layer: 0
   m_Name: Game Controllers
   m_TagString: Untagged
@@ -290,7 +290,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &39026337
+--- !u!114 &39026338
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -299,7 +299,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 39026333}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c9e7fa9fe1aee164a9e07fbfe42d15ee, type: 3}
+  m_Script: {fileID: 11500000, guid: eb0a653812a16f842a189d2cdc06fa1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &285481197
@@ -894,7 +894,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -20.230011, y: 37}
+  m_AnchoredPosition: {x: -20.230042, y: 37}
   m_SizeDelta: {x: 281.08, y: 202.15}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &526537635

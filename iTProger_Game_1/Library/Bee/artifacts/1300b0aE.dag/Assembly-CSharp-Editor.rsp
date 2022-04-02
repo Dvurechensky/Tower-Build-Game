@@ -368,9 +368,13 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.Advertisements.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.Advertisements.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.Monetization.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/UnityUI/Editor/ButtonEditor.cs"
+"Assets/Scripts/UnityUI/Editor/ControlClear.cs"
 -langversion:9.0
 
 /deterministic
