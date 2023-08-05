@@ -13,6 +13,7 @@
 
 [Видео](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWHhR-d1HRYNsy7l0Zhjws4) - мотивирующее на создание подобного проекта
 
+## Что внутри проекта 😈
 <p align="center">
     <img src="Git/view.gif" height="100%" width="100%">
 </p>
